@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: blueviolet;
+   
+}
+section{
+    background: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    margin: auto;
+    width: 500px;
+    padding: 15px;
+}
+select#elementos{
+    width: 150px;
+
+}
+#btn_finalizar{
+    margin-top: 10px;
+}
+footer{
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
